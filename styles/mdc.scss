@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+}
+
+$mdc-theme-primary: #00796b;
+$mdc-theme-secondary: #212121;
+
+@import "@material/button/mdc-button";
+@import "@material/typography/mdc-typography";
+@import "@material/theme/mdc-theme";
